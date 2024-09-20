@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ss3/form-login-logout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/hook-custom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/hook-use-effect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/select-your-car" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/select-your-car2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/student-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/tang-giam-function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/timer" vcs="Git" />
+  </component>
+</project>
